@@ -50,3 +50,11 @@ Each sub have its own bill
 ## Managins Groups
 Manage the subscriptions
 Subs heritage the managing group config
+<br>
+# Virtual Machine Lab
+## pre-config VMs
+Linux with Wordpress
+Memory driven
+## basic VM
+Signature pre defined automatic
+Resources group: built previosuly
